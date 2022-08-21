@@ -4,7 +4,7 @@ import "./App.css";
 import { statesData } from "./data";
 import "leaflet/dist/leaflet.css";
 
-const center = [3.8132, -71.26791];
+const center = [40.10616, -100.84310];
 export default function App() {
   return (
     <MapContainer
